@@ -14,4 +14,4 @@ A GUI-based tool to assess the security of PACS/DICOM systems, identify vulnerab
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pacs-dicom-security-tool.git
+ https://github.com/athish247/pacs-dicom-security-tool-.git
